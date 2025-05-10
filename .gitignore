@@ -1,0 +1,32 @@
+# Generados por Android
+*.apk
+*.ap_
+*.dex
+*.class
+*.jar
+*.war
+*.ear
+
+# Carpetas de build
+/build/
+/app/build/
+/gradle/
+/.gradle/
+
+# Archivos de configuración local (SDK, rutas, passwords, etc)
+local.properties
+
+# Archivos de Android Studio/IntelliJ
+*.iml
+.idea/
+.idea/**
+
+# Archivos de log y temporales
+*.log
+.DS_Store
+
+# Carpeta de NDK/objeto nativo
+.cxx/
+
+
+
